@@ -1,0 +1,22 @@
+body  {}
+
+.big-box {
+    display: flex;
+    background-color: rgb(137, 217, 193);
+    width: 500px;
+    height:500px;
+}
+.inside-box{
+    background-color: rgb(156, 98, 164);
+    border-style: solid;
+    border-color: azure;
+    width: 100px;
+    height:100px;
+}
+
+
+
+
+
+
+
