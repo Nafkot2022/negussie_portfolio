@@ -1,6 +1,17 @@
-body  {}
+:root {
+    --primary-color: #15555
+}
 
-.big-box {
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing;
+}
+
+
+body  {
+
+.container {
     display: flex;
     background-color: rgb(137, 217, 193);
     width: 500px;
@@ -13,7 +24,7 @@ body  {}
     width: 100px;
     height:100px;
 }
-
+}
 
 
 
